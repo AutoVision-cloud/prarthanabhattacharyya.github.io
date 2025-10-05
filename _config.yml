@@ -1,0 +1,41 @@
+# Site settings
+title: Your Name
+email: your.email@example.com
+description: Personal academic website
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://yourusername.github.io" # change to your GitHub username
+
+# Build settings
+markdown: kramdown
+theme: minima
+
+# Collections
+collections:
+  publications:
+    output: true
+    permalink: /publications/:path/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "publications"
+    values:
+      layout: "publication"
+
+# Social links
+github_username: yourusername
+scholar_username: your-scholar-id
+linkedin_username: your-linkedin
+twitter_username: your-twitter
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - README.md
