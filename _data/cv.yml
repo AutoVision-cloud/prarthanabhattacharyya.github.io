@@ -34,7 +34,7 @@
       institution: Gatik, Toronto, Canada
       year: 2021 - 2022
       description:
-        - Designed and implemented temporal motion forecasting solutions for autonomous driving (Mitacs Fellowship)
+        - Designed and implemented temporal motion forecasting solutions for autonomous driving (Mitacs PhD Fellowship)
     
     - title: Machine Learning Engineer Intern
       institution: Apple, Toronto, Canada
@@ -61,7 +61,7 @@
       institution: University of Tokyo, Japan
       # year: 2015 - 2017
       description:
-        - "Specialized in 3D scene understanding and sensor fusion for autonomous vehicles. Developed ML approach for traffic analysis at urban intersections validated with real-world Tokyo data (IEEE Vehicular Technology Conference (VTC)). MEXT Scholarship recipient."
+        - "Specialized in 3D scene understanding and sensor fusion for autonomous vehicles. Developed ML approach for traffic analysis at urban intersections validated with real-world Tokyo data (IEEE VTC). MEXT Scholarship recipient."
 
     - title: Bachelor of Engineering
       institution: Jadavpur University, Kolkata, India
@@ -82,7 +82,7 @@
     - year:
       items:
         - "CES 2025 - Public demonstration of hand gesture recognition system on smartglasses"
-        - "Best Paper Award, ECCV 2024 Workshop on Smart Eyewear (low-power, low-latency ML)"
+        - "Best Paper Award, ECCV 2024 Workshop on Smart Eyewear"
         - "AWE USA 2024 - Public demonstration of micro-gesture detection (featured by CNET)"
         - "Mitacs Accelerate Fellowship, Gatik AI (2021-2022)"
         - "3rd Place, NeurIPS 2019 Argoverse 3D Tracking Competition"
