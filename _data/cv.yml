@@ -18,7 +18,7 @@
       year: 2025 - Present
       description:
         - Developing ML and Gen-AI solutions for intelligent education technology
-        - Co-authored research on uncertainty-based approach for identifying struggling students (under review)
+        - Co-authored research on uncertainty-based approach for identifying struggling students
         - Refactored Knowledge Tracing pipeline, reducing code by 31% and implementation time by 80% 
     
     - title: Senior Machine Learning Engineer
@@ -27,7 +27,7 @@
       description:
         - Led hand tracking foundation model development for AI music tutors, redesigning core architecture for improved temporal modeling and 3D spatial accuracy
         - Developed ultra-low-power gesture control for smart glasses achieving 20% accuracy improvement (F1>80%) with 25x power reduction (CES 2025, public launch)
-        - Built micro-gesture detection system for smart eyewear, demonstrated at AWE USA 2024 and featured by CNET (Best Paper, ECCV 2024)
+        - Built micro-gesture detection system for smart eyewear, demonstrated at AWE USA 2024 and featured by CNET (Best Paper, ECCVW 2024)
         - Improved IR pinch-tracking accuracy by 50%+ through dataset curation and addressing pose-class imbalances
 
     - title: Machine Learning Researcher
@@ -40,13 +40,13 @@
       institution: Apple, Toronto, Canada
       year: 06/2022 - 09/2022
       description:
-        - Implemented self-supervised learning for Vision Transformers, improving classification accuracy 4-6% for Visual Lookup
+        - Implemented self-supervised learning for Vision Transformers, improving Visual Lookup classification accuracy by 4-6%
 
     - title: Applied Scientist II Intern
       institution: Amazon Science, Vancouver, Canada
       year: 06/2021 - 09/2021
       description:
-        - Developed self-supervised transformer framework for logo recognition, achieving 4-11% improvement over SOTA (ICASSP 2022)
+        - Developed self-supervised transformer for logo recognition, achieving 4-11% improvement over SOTA (ICASSP 2022)
 
 - title: Education
   type: time_table
@@ -55,28 +55,19 @@
       institution: University of Waterloo, Canada
       # year: 2018 - 2023
       description:
-        - "Developed state-of-the-art ML algorithms for 3D object tracking, point cloud-based object detection, and temporal motion forecasting for autonomous vehicles"
-        - "Spearheaded optimization initiatives achieving significant accuracy improvements with 40% lower computational cost"
-        - "Successfully deployed research on autonomous vehicle operating on public roads in Canada"
-        - "Award-winning research - 3rd place at NeurIPS-2019 Argoverse competition"
-        - "Presented at top-tier ML/CV conferences and workshops (ECCV, ICCV, CoRL, IV) with 450+ citations and 400+ GitHub stars"
-        - "Mentored 5 undergraduate and MS students on theses in 3D computer vision, self-supervised learning, and motion forecasting"
+        - "Developed ML algorithms for 3D object tracking and motion forecasting for autonomous vehicles, achieving 40% lower computational cost. 3rd place at NeurIPS 2019 Argoverse competition. Research deployed on autonomous vehicles operating on public roads in Canada. Published at top-tier conferences (ECCV, ICCV, CoRL, IV) with 450+ citations and 400+ GitHub stars."
         
     - title: Master of Science and Technology
       institution: University of Tokyo, Japan
       # year: 2015 - 2017
       description:
-        - "Specialized in 3D scene understanding and sensor fusion for autonomous vehicles"
-        - "Developed ML approach for traffic analysis at urban intersections, enabling human-like navigation in complex scenarios"
-        - "Validated with real-world data from Tokyo urban environments, published at IEEE VTC-Spring 2017"
-        - "Awarded Japanese government MEXT Scholarship for full sponsorship"
+        - "Specialized in 3D scene understanding and sensor fusion for autonomous vehicles. Developed ML approach for traffic analysis at urban intersections validated with real-world Tokyo data (IEEE VTC 2017). MEXT Scholarship recipient."
 
     - title: Bachelor of Engineering
       institution: Jadavpur University, Kolkata, India
       # year: 2011 - 2015
       description:
-        - "Worked on enhancing digital image compression techniques using machine learning and fuzzy clustering"
-        - "Published research at IEEE conference on vector quantization-based image compression"
+        - "Focused on digital image compression using machine learning and fuzzy clustering. Published research on vector quantization-based image compression at IEEE conference."
 
 #- title: Open Source Projects
 #  type: time_table
