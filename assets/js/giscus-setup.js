@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "AutoVision-cloud/prarthanabhattacharyya.github.io",
+    "data-repo": "prarthanabhattacharyya/prarthanabhattacharyya.github.io",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",
