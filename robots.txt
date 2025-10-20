@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://AutoVision-cloud.github.io/prarthanabhattacharyya/sitemap.xml
