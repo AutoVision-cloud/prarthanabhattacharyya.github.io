@@ -17,41 +17,36 @@
       institution: Eedi, London, UK
       year: 2025 - Present
       description:
-        - I develop ML and Gen-AI solutions to power the next generation of intelligent education technology.
-        - Co-authored research introducing new uncertainty-based approach that identifies struggling students where traditional metrics fail, enabling EdTech platforms to intervene at critical moments.
-        - Improved ML pipeline maintainability and scalability by refactoring 4 Knowledge Tracing (KT) models to reduce code by 31% and decrease new model implementation from 300+ to 50 lines.
-        - Presented a session on Generative AI for Education and LearnLM to share knowledge across the team. 
+        - Developing ML and Gen-AI solutions for intelligent education technology
+        - Co-authored research on uncertainty-based approach for identifying struggling students (under review)
+        - Refactored Knowledge Tracing pipeline, reducing code by 31% and implementation time by 80% 
     
     - title: Senior Machine Learning Engineer
       institution: Ultraleap, Bristol, UK
       year: 2023 - 2025
       description:
-        - Led ML development of real-time hand tracking foundation models for the future of AI music tutors. Re-designed Ultraleap's core model architecture within 3 months to improve temporal modeling, occlusion robustness and 3D spatial accuracy. This improved finger-to-piano-key alignment and addressed critical user experience challenges.
-        - Built fine tuning and LoRA models to tune Ultraleap's core foundation hand tracking model on piano performance data for AI Music Tutor applications.
-        - Tech-led ML development of mobile-optimized architectures for ultra-low-power gesture control in smart glasses. Model accuracy improved by 20% (F1>80%) with 25x reduction in power consumption. Demonstrated model at CES-2025, publicly launched as part of a development kit, and technical pre-print is under review.
-        - Pioneered low-power low-latency ML models, representations and custom loss functions enabling micro-gesture detection for Meta-Raybans. Rapidly delivered a prototype within 6 months, publicly demonstrated at AWE-USA-2024 and featured by CNET. Won Best Paper award at ECCV-2024 Smart Eyewear Workshop.
-        - Implemented and tested mobile-friendly custom convolutional (EfficientNet, MobileNet, ConvNext) and vision transformer-based feature extractors to improve hand-tracking performance on edge devices.
-        - Researched and planned advanced dataset curation work for large-scale training data from cutting-edge ML research papers. Resolved critical pose-class imbalances addressing key customer pain-points and boosting IR pinch-tracking accuracy by 50%+.
+        - Led hand tracking foundation model development for AI music tutors, redesigning core architecture for improved temporal modeling and 3D spatial accuracy
+        - Developed ultra-low-power gesture control for smart glasses achieving 20% accuracy improvement (F1>80%) with 25x power reduction (CES 2025, public launch)
+        - Built micro-gesture detection system for smart eyewear, demonstrated at AWE USA 2024 and featured by CNET (Best Paper, ECCV 2024)
+        - Improved IR pinch-tracking accuracy by 50%+ through dataset curation and addressing pose-class imbalances
 
-    - title: Machine Learning Researcher 
+    - title: Machine Learning Researcher
       institution: Gatik, Toronto, Canada
       year: 2021 - 2022
       description:
-        - Collaborated with Gatik as part of the Mitacs Accelerate Fellowship during PhD, to design and implement innovative solutions for temporal motion forecasting in industrial autonomous driving applications.
-        - Utilized PyTorch to rapidly prototype, train, and evaluate machine learning models.
-        - Analyzed and resolved performance bottlenecks while effectively communicating solutions.
+        - Designed and implemented temporal motion forecasting solutions for autonomous driving (Mitacs Fellowship)
     
     - title: Machine Learning Engineer Intern
       institution: Apple, Toronto, Canada
       year: 06/2022 - 09/2022
       description:
-        - Implemented self-supervised learning for large-scale Vision Transformers, capturing fine-grained visual distinctions. Improved classification accuracy 4-6% on class-imbalanced datasets to improve the Visual Lookup product.
+        - Implemented self-supervised learning for Vision Transformers, improving classification accuracy 4-6% for Visual Lookup
 
     - title: Applied Scientist II Intern
       institution: Amazon Science, Vancouver, Canada
       year: 06/2021 - 09/2021
       description:
-        - Developed self-supervised transformer framework for logo recognition, reducing annotation requirements. Achieved 4-11% improvement over SOTA on five benchmarks (ICASSP-2022)
+        - Developed self-supervised transformer framework for logo recognition, achieving 4-11% improvement over SOTA (ICASSP 2022)
 
 - title: Education
   type: time_table
