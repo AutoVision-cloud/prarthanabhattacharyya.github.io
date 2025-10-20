@@ -55,13 +55,13 @@
       institution: University of Waterloo, Canada
       # year: 2018 - 2023
       description:
-        - "Developed ML algorithms for 3D object tracking and motion forecasting for autonomous vehicles, achieving 40% lower computational cost. 3rd place at NeurIPS 2019 Argoverse competition. Research deployed on autonomous vehicles operating on public roads in Canada. Published at top-tier conferences (ECCV, ICCV, CoRL, IV) with 450+ citations and 400+ GitHub stars."
+        - "Developed ML algorithms for 3D object tracking and motion forecasting for autonomous vehicles, achieving 40% lower computational cost. 3rd place at NeurIPS 2019 Argoverse competition. Research deployed on autonomous vehicles operating on public roads in Canada. Published at top-tier conferences and workshops (ECCV, ICCV, CoRL, IV) with 450+ citations and 400+ GitHub stars."
         
     - title: Master of Science and Technology
       institution: University of Tokyo, Japan
       # year: 2015 - 2017
       description:
-        - "Specialized in 3D scene understanding and sensor fusion for autonomous vehicles. Developed ML approach for traffic analysis at urban intersections validated with real-world Tokyo data (IEEE VTC 2017). MEXT Scholarship recipient."
+        - "Specialized in 3D scene understanding and sensor fusion for autonomous vehicles. Developed ML approach for traffic analysis at urban intersections validated with real-world Tokyo data (IEEE Vehicular Technology Conference (VTC)). MEXT Scholarship recipient."
 
     - title: Bachelor of Engineering
       institution: Jadavpur University, Kolkata, India
