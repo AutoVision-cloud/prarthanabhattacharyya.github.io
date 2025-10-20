@@ -1,14 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - AutoVision-cloud
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - AutoVision-cloud/SA-Det3D
+  - AutoVision-cloud/SSL-Lanes
+  - AutoVision-cloud/Deformable-PV-RCNN
+  - AutoVision-cloud/SSL-ViT-lowlabel-highdata

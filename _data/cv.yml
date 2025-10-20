@@ -2,96 +2,120 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Prarthana Bhattacharyya
+#    - name: Date of Birth
+#      value: 14th March 1879
     - name: Languages
-      value: English, German
-
-- title: Education
-  type: time_table
-  contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+      value: English, Bengali, Hindi, Japanese
+    - name: Work Authorization
+      value: UK Global Talent
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Machine Learning Engineer
+      institution: Eedi, London, UK
+      year: 2025 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - I develop ML and Gen-AI solutions to power the next generation of intelligent education technology.
+        - Co-authored research introducing new uncertainty-based approach that identifies struggling students where traditional metrics fail, enabling EdTech platforms to intervene at critical moments.
+        - Improved ML pipeline maintainability and scalability by refactoring 4 Knowledge Tracing (KT) models to reduce code by 31% and decrease new model implementation from 300+ to 50 lines.
+        - Presented a session on Generative AI for Education and LearnLM to share knowledge across the team. 
+    
+    - title: Senior Machine Learning Engineer
+      institution: Ultraleap, Bristol, UK
+      year: 2023 - 2025
       description:
-        - Description 1.
-        - Description 2.
+        - Led ML development of real-time hand tracking foundation models for the future of AI music tutors. Re-designed Ultraleap's core model architecture within 3 months to improve temporal modeling, occlusion robustness and 3D spatial accuracy. This improved finger-to-piano-key alignment and addressed critical user experience challenges.
+        - Built fine tuning and LoRA models to tune Ultraleap's core foundation hand tracking model on piano performance data for AI Music Tutor applications.
+        - Tech-led ML development of mobile-optimized architectures for ultra-low-power gesture control in smart glasses. Model accuracy improved by 20% (F1>80%) with 25x reduction in power consumption. Demonstrated model at CES-2025, publicly launched as part of a development kit, and technical pre-print is under review.
+        - Pioneered low-power low-latency ML models, representations and custom loss functions enabling micro-gesture detection for Meta-Raybans. Rapidly delivered a prototype within 6 months, publicly demonstrated at AWE-USA-2024 and featured by CNET. Won Best Paper award at ECCV-2024 Smart Eyewear Workshop.
+        - Implemented and tested mobile-friendly custom convolutional (EfficientNet, MobileNet, ConvNext) and vision transformer-based feature extractors to improve hand-tracking performance on edge devices.
+        - Researched and planned advanced dataset curation work for large-scale training data from cutting-edge ML research papers. Resolved critical pose-class imbalances addressing key customer pain-points and boosting IR pinch-tracking accuracy by 50%+.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Machine Learning Researcher 
+      institution: Gatik, Toronto, Canada
+      year: 2021 - 2022
       description:
+        - Collaborated with Gatik as part of the Mitacs Accelerate Fellowship during PhD, to design and implement innovative solutions for temporal motion forecasting in industrial autonomous driving applications.
+        - Utilized PyTorch to rapidly prototype, train, and evaluate machine learning models.
+        - Analyzed and resolved performance bottlenecks while effectively communicating solutions.
+    
+    - title: Machine Learning Engineer Intern
+      institution: Apple, Toronto, Canada
+      year: 06/2022 - 09/2022
+      description:
+        - Implemented self-supervised learning for large-scale Vision Transformers, capturing fine-grained visual distinctions. Improved classification accuracy 4-6% on class-imbalanced datasets to improve the Visual Lookup product.
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: Applied Scientist II Intern
+      institution: Amazon Science, Vancouver, Canada
+      year: 06/2021 - 09/2021
+      description:
+        - Developed self-supervised transformer framework for logo recognition, reducing annotation requirements. Achieved 4-11% improvement over SOTA on five benchmarks (ICASSP-2022)
 
-- title: Open Source Projects
+- title: Education
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: PhD in Electrical and Computer Engineering
+      institution: University of Waterloo, Canada
+      # year: 2018 - 2023
+      description:
+        - "Developed state-of-the-art ML algorithms for 3D object tracking, point cloud-based object detection, and temporal motion forecasting for autonomous vehicles"
+        - "Spearheaded optimization initiatives achieving significant accuracy improvements with 40% lower computational cost"
+        - "Successfully deployed research on autonomous vehicle operating on public roads in Canada"
+        - "Award-winning research - 3rd place at NeurIPS-2019 Argoverse competition"
+        - "Presented at top-tier ML/CV conferences and workshops (ECCV, ICCV, CoRL, IV) with 450+ citations and 400+ GitHub stars"
+        - "Mentored 5 undergraduate and MS students on theses in 3D computer vision, self-supervised learning, and motion forecasting"
+        
+    - title: Master of Science and Technology
+      institution: University of Tokyo, Japan
+      # year: 2015 - 2017
+      description:
+        - "Specialized in 3D scene understanding and sensor fusion for autonomous vehicles"
+        - "Developed ML approach for traffic analysis at urban intersections, enabling human-like navigation in complex scenarios"
+        - "Validated with real-world data from Tokyo urban environments, published at IEEE VTC-Spring 2017"
+        - "Awarded Japanese government MEXT Scholarship for full sponsorship"
+
+    - title: Bachelor of Engineering
+      institution: Jadavpur University, Kolkata, India
+      # year: 2011 - 2015
+      description:
+        - "Worked on enhancing digital image compression techniques using machine learning and fuzzy clustering"
+        - "Published research at IEEE conference on vector quantization-based image compression"
+
+#- title: Open Source Projects
+#  type: time_table
+#  contents:
+#    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+#      year: 2015-now
+#      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year:
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+        - "CES 2025 - Public demonstration of hand gesture recognition system on smartglasses"
+        - "Best Paper Award, ECCV 2024 Workshop on Smart Eyewear (low-power, low-latency ML)"
+        - "AWE USA 2024 - Public demonstration of micro-gesture detection (featured by CNET)"
+        - "Mitacs Accelerate Fellowship, Gatik AI (2021-2022)"
+        - "3rd Place, NeurIPS 2019 Argoverse 3D Tracking Competition"
+        - "Graduate Fellowships, University of Waterloo"
+        - "MEXT Scholarship by the Japanese Government, for M.S. studies in Japan"
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+# - title: Academic Interests
+#   type: nested_list
+#   contents:
+#     - title: Topic 1.
+#       items:
+#         - Description 1.
+#         - Description 2.
+#     - title: Topic 2.
+#       items:
+#         - Description 1.
+#         - Description 2.
 
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+#- title: Other Interests
+#  type: list
+#  contents:
+#    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
