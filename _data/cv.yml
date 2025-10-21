@@ -38,13 +38,13 @@
     
     - title: Machine Learning Engineer Intern
       institution: Apple, Toronto, Canada
-      year: 06/2022 - 09/2022
+      year: Summer 2022
       description:
         - Implemented self-supervised learning for Vision Transformers, improving Visual Lookup classification accuracy by 4-6%
 
     - title: Applied Scientist II Intern
       institution: Amazon Science, Vancouver, Canada
-      year: 06/2021 - 09/2021
+      year: Summer 2021
       description:
         - Developed self-supervised transformer for logo recognition, achieving 4-11% improvement over SOTA (ICASSP 2022)
 
