@@ -67,7 +67,7 @@
         - "Specialized in 3D scene understanding and sensor fusion for autonomous vehicles. Developed ML approach for traffic analysis at urban intersections validated with real-world Tokyo data (IEEE VTC). MEXT Scholarship recipient."
 
     - title: Bachelor of Engineering
-      institution: Jadavpur University, Kolkata, India
+      institution: Jadavpur University, India
       # year: 2011 - 2015
       description:
         - "Focused on digital image compression using machine learning and fuzzy clustering. Published research on vector quantization-based image compression at IEEE conference."
