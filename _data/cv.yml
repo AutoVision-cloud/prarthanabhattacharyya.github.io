@@ -17,12 +17,12 @@
       institution: Eedi, London, UK
       year: 2025 - Present
       description:
-        - Developing ML and Gen-AI solutions for intelligent education technology.
+        - Developing and deploying ML and Gen-AI solutions for education technology across UK schools.
         - Co-authored research on uncertainty-based approach for identifying struggling students.
         - Refactored Knowledge Tracing (KT) pipeline, reducing code by 31% and implementation time by 80%.
         - Deployed a generative next-question selector for dynamic quizzes in pilot schools. Productionized on Azure using LitServe, Terraform, and GitHub Actions.
-        - Presented a session on Generative AI for Education and LearnLM to share knowledge across the team.
-    
+        - Led internal workshop on Generative AI for Education and LearnLM, building team capability in LLM applications.
+
     - title: Senior Machine Learning Engineer
       institution: Ultraleap, Bristol, UK
       year: 2023 - 2025
@@ -50,6 +50,18 @@
       description:
         - Developed self-supervised transformer for logo recognition, achieving 4-11% improvement over SOTA (ICASSP 2022).
 
+- title: Skills
+  type: map
+  contents:
+    - name: Machine Learning
+      value: PyTorch, Keras, TensorFlow, Transformers, Vision Transformers, Self-Supervised Learning, Knowledge Tracing, Computer Vision, Gesture Recognition
+    - name: MLOps & Cloud
+      value: Azure, LitServe, Terraform, GitHub Actions, CI/CD
+    - name: Domains
+      value: Generative AI, Edge ML, Autonomous Driving, Educational Technology, 3D Computer Vision
+    - name: Programming
+      value: Python, MATLAB, SQL, Git
+
 - title: Education
   type: time_table
   contents:
@@ -57,9 +69,11 @@
       institution: University of Waterloo, Canada
       # year: 2018 - 2023
       description:
-        - "Developed ML algorithms for 3D object detection, tracking and motion forecasting for autonomous vehicles. 3rd place at NeurIPS 2019 Argoverse competition. Research deployed on autonomous vehicles operating on public roads in Canada. Published at top-tier conferences and workshops (ECCV, ICCV, CoRL, IV) with 450+ citations and 400+ GitHub stars. 
-           Mentored five undergraduate and MS students for their theses projects in 3D computer vision, self-supervised learning and temporal motion forecasting. Attended the DL-RL Summer School of 2018, hosted by Vector Institute and MILA at the University of Toronto."
-        
+        - Developed ML algorithms for 3D object detection, tracking and motion forecasting for autonomous vehicles. 3rd place at NeurIPS 2019 Argoverse competition.
+        - Research deployed on autonomous vehicles operating on public roads in Canada.
+        - Published at top-tier conferences and workshops (ECCV, ICCV, CoRL, IV) with 450+ citations and 400+ GitHub stars.
+        - Mentored five undergraduate and MS students on thesis projects in 3D computer vision, self-supervised learning, and temporal motion forecasting.
+    
     - title: Master of Science and Technology
       institution: University of Tokyo, Japan
       # year: 2015 - 2017
