@@ -17,36 +17,38 @@
       institution: Eedi, London, UK
       year: 2025 - Present
       description:
-        - Developing ML and Gen-AI solutions for intelligent education technology
-        - Co-authored research on uncertainty-based approach for identifying struggling students
-        - Refactored Knowledge Tracing pipeline, reducing code by 31% and implementation time by 80% 
+        - Developing ML and Gen-AI solutions for intelligent education technology.
+        - Co-authored research on uncertainty-based approach for identifying struggling students.
+        - Refactored Knowledge Tracing (KT) pipeline, reducing code by 31% and implementation time by 80%.
+        - Deployed a generative next-question selector for dynamic quizzes in pilot schools. Productionized on Azure using LitServe, Terraform, and GitHub Actions.
+        - Presented a session on Generative AI for Education and LearnLM to share knowledge across the team.
     
     - title: Senior Machine Learning Engineer
       institution: Ultraleap, Bristol, UK
       year: 2023 - 2025
       description:
-        - Led hand tracking foundation model development for AI music tutors, redesigning core architecture for improved temporal modeling and 3D spatial accuracy
-        - Developed ultra-low-power gesture control for smart glasses achieving 20% accuracy improvement (F1>80%) with 25x power reduction (CES 2025, public launch)
-        - Built micro-gesture detection system for smart eyewear, demonstrated at AWE USA 2024 and featured by CNET (Best Paper, ECCVW 2024)
-        - Improved IR pinch-tracking accuracy by 50%+ through dataset curation and addressing pose-class imbalances
+        - Led hand tracking foundation model development for AI music tutors, redesigning core architecture within 4 months for improved temporal modeling and 3D spatial accuracy.
+        - Developed ultra-low-power gesture control for smart glasses achieving 20% accuracy improvement (F1>80%) with 25x power reduction (CES 2025, public launch).
+        - Built micro-gesture detection system for smart eyewear, demonstrated at AWE USA 2024 and featured by CNET (Best Paper, ECCVW 2024).
+        - Improved IR pinch-tracking accuracy by 50%+ through dataset curation and addressing pose-class imbalances.
 
     - title: Machine Learning Researcher
       institution: Gatik, Toronto, Canada
       year: 2021 - 2022
       description:
-        - Designed and implemented temporal motion forecasting solutions for autonomous driving (Mitacs PhD Fellowship)
+        - Designed and implemented temporal motion forecasting solutions for autonomous driving (Mitacs PhD Fellowship).
     
     - title: Machine Learning Engineer Intern
       institution: Apple, Toronto, Canada
       year: Summer 2022
       description:
-        - Implemented self-supervised learning for Vision Transformers, improving Visual Lookup classification accuracy by 4-6%
+        - Implemented self-supervised learning for Vision Transformers, improving Visual Lookup classification accuracy by 4-6%.
 
     - title: Applied Scientist II Intern
       institution: Amazon Science, Vancouver, Canada
       year: Summer 2021
       description:
-        - Developed self-supervised transformer for logo recognition, achieving 4-11% improvement over SOTA (ICASSP 2022)
+        - Developed self-supervised transformer for logo recognition, achieving 4-11% improvement over SOTA (ICASSP 2022).
 
 - title: Education
   type: time_table
@@ -55,7 +57,8 @@
       institution: University of Waterloo, Canada
       # year: 2018 - 2023
       description:
-        - "Developed ML algorithms for 3D object tracking and motion forecasting for autonomous vehicles, achieving 40% lower computational cost. 3rd place at NeurIPS 2019 Argoverse competition. Research deployed on autonomous vehicles operating on public roads in Canada. Published at top-tier conferences and workshops (ECCV, ICCV, CoRL, IV) with 450+ citations and 400+ GitHub stars."
+        - "Developed ML algorithms for 3D object detection, tracking and motion forecasting for autonomous vehicles. 3rd place at NeurIPS 2019 Argoverse competition. Research deployed on autonomous vehicles operating on public roads in Canada. Published at top-tier conferences and workshops (ECCV, ICCV, CoRL, IV) with 450+ citations and 400+ GitHub stars. 
+           Mentored five undergraduate and MS students for their theses projects in 3D computer vision, self-supervised learning and temporal motion forecasting. Attended the DL-RL Summer School of 2018, hosted by Vector Institute and MILA at the University of Toronto."
         
     - title: Master of Science and Technology
       institution: University of Tokyo, Japan
