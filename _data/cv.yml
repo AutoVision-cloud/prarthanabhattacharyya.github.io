@@ -53,14 +53,16 @@
 - title: Skills
   type: map
   contents:
-    - name: Machine Learning
-      value: PyTorch, Keras, TensorFlow, Transformers, Vision Transformers, Self-Supervised Learning, Knowledge Tracing, Computer Vision, Gesture Recognition
-    - name: MLOps & Cloud
-      value: Azure, LitServe, Terraform, GitHub Actions, CI/CD
+    - name: Deep Learning Frameworks
+      value: PyTorch, TensorFlow, Keras, Transformers, Vision Transformers
+    - name: MLOps Platforms
+      value: AWS, Azure, MLFlow, ClearML, LitServe, Terraform, GitHub Actions, CI/CD
+    - name: Specializations
+      value: 3D Computer Vision, Self-Supervised Learning, Graph Neural Networks, Event-Based Vision, Knowledge Tracing, Gesture Recognition
     - name: Domains
-      value: Generative AI, Edge ML, Autonomous Driving, Educational Technology, 3D Computer Vision
+      value: Generative AI, Edge ML, Autonomous Driving, Educational Technology
     - name: Programming
-      value: Python, MATLAB, SQL, Git
+      value: Python, Git
 
 - title: Education
   type: time_table
